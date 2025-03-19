@@ -1,0 +1,19 @@
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.loader {
+  animation: rotate 2s linear infinite;
+  /* técnica para centralizar objetos absoluto na horizontal */
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  font-size: 50px;
+  margin-top: 40px;
+opacity: 0.7;
+}
