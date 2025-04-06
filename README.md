@@ -45,7 +45,7 @@ Com essa aplicação é possível:
   
   <img src="./public/screen.png" width="430px"> 
   <br/>
-  <a href="https://github-finder-liard-five.vercel.app/" target="_blank">→ Ver Projeto Online 🔗</a>
+  <a href="https://github-finder-liard-five.vercel.app/">→ Ver Projeto Online 🔗</a>
 </div>
 
 
