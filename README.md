@@ -86,7 +86,7 @@ npm install
 npm run dev
 ```
 4. Acesse o projeto no navegador:<br>
-No terminal, pressione `Ctrl + Clique` no link gerado:
+No terminal, pressione `Ctrl + Clique` no link gerado:<br>
  ➜  Local:   http://localhost:5173/
 
 ---
