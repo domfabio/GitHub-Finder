@@ -75,7 +75,7 @@ Antes de prosseguir com a configuração, certifique-se de ter todos os pré-req
 1. Clone este repositório:
 Abra o **VS Code**, pressione `Ctrl + Shift + P`, digite **"Git Clone"** e cole o link do repositório:
 ```sh
-https://github.com/domfabio/Clone-LP-Spotify-TailwindCSS.git
+https://github.com/domfabio/GitHub-Finder.git
 ```
 2. Instalar Dependências:
 ```sh
